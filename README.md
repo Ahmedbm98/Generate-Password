@@ -4,7 +4,7 @@ This web application allows you to generate a password and copy it. including up
 ## Live Demo
 [Demo](https://ahmedbm98.github.io/Generate-Password/)
 
-#Technologies
+# Technologies
 HTML, CSS, Font Awesome, JavaScript
 
 ## Contact Me
